@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "3ASP20118803\\form2.aspx.cs",
               "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\form2.aspx.cs",
               "RelativeToolTip": "3ASP20118803\\form2.aspx.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T06:30:37.464Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "3ASP20118803\\SesionVariables.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-28T06:08:19.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T06:08:19.87Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "3ASP20118803\\SesionVariables.aspx.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T06:15:19.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T06:15:19.547Z"
             }
           ]
         }
