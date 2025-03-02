@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880C05AA-0F4F-44A4-979B-25E16D6233AF}|3ASP20118803\\3ASP20118803.csproj|c:\\users\\mineducyt\\desktop\\arcides\\practica3\\3asp20118803\\3asp20118803\\form2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880C05AA-0F4F-44A4-979B-25E16D6233AF}|3ASP20118803\\3ASP20118803.csproj|solutionrelative:3asp20118803\\form2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880C05AA-0F4F-44A4-979B-25E16D6233AF}|3ASP20118803\\3ASP20118803.csproj|C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3asp20118803\\sesionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880C05AA-0F4F-44A4-979B-25E16D6233AF}|3ASP20118803\\3ASP20118803.csproj|solutionrelative:3asp20118803\\sesionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880C05AA-0F4F-44A4-979B-25E16D6233AF}|3ASP20118803\\3ASP20118803.csproj|C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3asp20118803\\sesionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{880C05AA-0F4F-44A4-979B-25E16D6233AF}|3ASP20118803\\3ASP20118803.csproj|solutionrelative:3asp20118803\\sesionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880C05AA-0F4F-44A4-979B-25E16D6233AF}|3ASP20118803\\3ASP20118803.csproj|C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3asp20118803\\form2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{880C05AA-0F4F-44A4-979B-25E16D6233AF}|3ASP20118803\\3ASP20118803.csproj|solutionrelative:3asp20118803\\form2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\form2.aspx.cs",
+              "RelativeDocumentMoniker": "3ASP20118803\\form2.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\form2.aspx.cs",
+              "RelativeToolTip": "3ASP20118803\\form2.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:30:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "form2.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\form2.aspx",
+              "RelativeDocumentMoniker": "3ASP20118803\\form2.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\form2.aspx",
+              "RelativeToolTip": "3ASP20118803\\form2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T06:24:16.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SesionVariables.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\SesionVariables.aspx",
+              "RelativeDocumentMoniker": "3ASP20118803\\SesionVariables.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\SesionVariables.aspx",
+              "RelativeToolTip": "3ASP20118803\\SesionVariables.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T06:08:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SesionVariables.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\SesionVariables.aspx.cs",
+              "RelativeDocumentMoniker": "3ASP20118803\\SesionVariables.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\3ASP20118803\\3ASP20118803\\SesionVariables.aspx.cs",
+              "RelativeToolTip": "3ASP20118803\\SesionVariables.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:15:19.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
